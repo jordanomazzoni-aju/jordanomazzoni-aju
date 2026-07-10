@@ -127,6 +127,13 @@
 
 <br/>  
 
+<div>
+<img src="https://github.com/jordanomazzoni-aju/img/blob/main/1580293808550-3894226661.jpg?raw=true" height="120"/>
+<img src="https://github.com/jordanomazzoni-aju/img/blob/main/1574980266407.jpeg?raw=true" height="120"/>
+</div>  
+
+<br/>  
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
