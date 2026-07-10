@@ -134,6 +134,10 @@
 <img src="https://github.com/jordanomazzoni-aju/img/blob/main/1580293808550-3894226661.jpg?raw=true" height="120"/>
 <img src="https://github.com/jordanomazzoni-aju/img/blob/main/1574980266407.jpeg?raw=true" height="120"/>
 <img src="https://images.credly.com/size/340x340/images/d417069c-b644-45de-9900-0934a0518d57/MCT-2018.png?raw=true" height="120"/>
+  <img src="https://images.credly.com/size/340x340/images/835b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png?raw=true" height="120"/>
+   <img src="https://images.credly.com/size/340x340/images/4ab9f51a-1307-4dc8-b99b-63a078da46fd/MCT-2017.png?raw=true" height="120"/>
+   <img src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png?raw=true" height="120"/>
+   <img src="https://images.credly.com/size/340x340/images/307e548a-c59d-4b65-b3d7-cdced866f27f/image.png?raw=true" height="120"/>
 </div>  
 
 <br/>   
