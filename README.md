@@ -89,7 +89,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+------
+
+
+  [![🇧🇷 🇮🇹 Jordano Mazzoni profile views](https://u8views.com/api/v1/github/profiles/261898051/views/day-week-month-total-count.svg)](https://u8views.com/github/jordanomazzoni)
+
 
 <br/>  
 
@@ -168,4 +173,5 @@
 <br />
 
 ----
+
 
